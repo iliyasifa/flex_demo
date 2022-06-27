@@ -32,7 +32,6 @@ class _HomeWidgetState extends State<HomeWidget> {
   bool _vertical = true;
   int _alignTextIndex = 0;
   int colorIndex = 0;
-  int colrListIndex = 0;
 
   final List<MainAxisAlignment> _alignment = [
     MainAxisAlignment.start,
